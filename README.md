@@ -1,3 +1,3 @@
 # Landing-Page
-This is my landing page project from the The Odin Project Course.
-I have decided to not move through the TOP course until I master the basics of CSS first, so I will be applying all I learned from the it (and from my own research) to this project first before moving on.
+This project took me two days (12 hours) to finish. I am very happy with the result, and I'm sure that this will only be the start of my journey in web development.
+The design for the Menu buttons and the "Sign in/up" buttons was taken from: "https://getcssscan.com/css-buttons-examples".
