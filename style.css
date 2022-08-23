@@ -37,8 +37,6 @@ img {
 }
 
 #main-img {
-    width: auto;
-    height: 300px;
     border: 3px inset rgba(43, 169, 252, 0.43);
     flex-wrap: wrap;
 }
